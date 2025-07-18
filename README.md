@@ -7,7 +7,8 @@ Python
 Tkinter
 
 ###Installation
-You will need Tkinter for this so install Tkinter and if you already have Tkinter just import it.
+Clone the repository or just download the project folder.
+You will need Tkinter for this so install it and import it in your code.
 
 ####Usage
 Password-generator can be useful for people who are keen on security like me! Run the program and just follow the instructions/prompt in the console app. It can give you some strong
@@ -20,7 +21,7 @@ Console-based program.
 
 #######Credits
 I've watched a tutorial while doing this program, the link below is the Youtube video.
-[https://www.youtube.com/watch?v=NCvI-K0Gp90](https://www.youtube.com/watch?v=XaVp2l6Z_Dc)
+https://www.youtube.com/watch?v=XaVp2l6Z_Dc
 
 #########Lessons learned
 I have learned how to use Python to build secure passwords while accepting and validating user inputs. I also learned how to build a basic GUI using Tkinter.
