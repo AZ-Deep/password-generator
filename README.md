@@ -16,7 +16,7 @@ password with customizable length/characters for a better account protection.
 
 #####Features
 Generates random passwords with customizable length.
-Creates and gives you strong passwords consisting of letters, numbers and even special characters.
+Creates and provides strong passwords consisting of letters, numbers and even special characters.
 Console-based program.
 
 #######Credits
